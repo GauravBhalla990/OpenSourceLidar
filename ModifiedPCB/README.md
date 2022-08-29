@@ -1,0 +1,2 @@
+# OpenSourceLidar
+Worked towards designing modified PCB and testing the OpenTOFlidar PCB but did not complete due to other responsibilities as team leader and for working on SF30C Lidar backup solution with team and time constraints.
